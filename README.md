@@ -63,6 +63,14 @@ comparable across countries without accounting for how much testing was actually
 Deaths-to-recovered ratio and serious-to-deaths ratio give a more outcome-focused view than
 raw totals, surfacing countries where a confirmed case was more likely to end badly.
 
+## Sample outputs
+
+Two of the notebook's charts, regenerated from the committed source data:
+
+![Top 10 countries by total deaths](assets/top10_deaths.svg)
+
+![Global COVID-19 cases over time](assets/cases_over_time.svg)
+
 ## Data source
 
 The dataset used here, worldometer_data.csv, is a country-level COVID-19 snapshot in the
