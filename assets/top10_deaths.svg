@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="372.677812pt" viewBox="0 0 460.8 372.677812" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-06T13:55:48.981132</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 372.677812 
+L 460.8 372.677812 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 230.399943 47.957812 
+C 206.075843 47.957812 182.107145 53.827473 160.535436 65.066833 
+C 138.963728 76.306193 120.41938 92.586814 106.481952 112.521956 
+C 92.544523 132.457098 83.621294 155.464215 80.472322 179.583622 
+C 77.32335 203.703029 80.040654 228.229906 88.392781 251.075119 
+L 152.296004 227.712332 
+C 147.702334 215.147465 146.207817 201.657682 147.939751 188.392008 
+C 149.671686 175.126335 154.579462 162.47242 162.245048 151.508092 
+C 169.910633 140.543764 180.110025 131.589422 191.974464 125.407775 
+C 203.838904 119.226127 217.021688 115.997813 230.399943 115.997813 
+z
+" style="fill: #1f77b4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 88.392778 251.075105 
+C 98.536376 278.820471 116.592292 302.994009 140.318517 320.594122 
+C 164.044743 338.194236 192.41685 348.460941 221.911724 350.119371 
+L 225.731422 282.18667 
+C 209.509242 281.274534 193.904583 275.627846 180.855159 265.947784 
+C 167.805735 256.267721 157.874981 242.972275 152.296002 227.712324 
+z
+" style="fill: #aec7e8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 221.911724 350.119371 
+C 236.93913 350.964321 252.008859 349.560712 266.62173 345.95503 
+C 281.2346 342.349348 295.227481 336.581859 308.136994 328.843559 
+L 273.155321 270.484974 
+C 266.055089 274.741039 258.359004 277.913158 250.321926 279.896283 
+C 242.284847 281.879408 233.996496 282.651393 225.731422 282.18667 
+z
+" style="fill: #ff7f0e; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 308.136994 328.843559 
+C 319.994321 321.735962 330.82101 313.035662 340.314152 302.986069 
+C 349.807293 292.936477 357.877495 281.632221 364.298884 269.389676 
+L 304.04436 237.785338 
+C 300.512597 244.518738 296.073986 250.736079 290.852758 256.263355 
+C 285.63153 261.79063 279.676851 266.575795 273.155321 270.484974 
+z
+" style="fill: #ffbb78; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 364.298884 269.389676 
+C 370.057892 258.409968 374.444601 246.763473 377.3601 234.712746 
+C 380.275599 222.662019 381.697835 210.29831 381.594718 197.900345 
+L 313.557069 198.466206 
+C 313.613784 205.285087 312.831554 212.085127 311.228029 218.713027 
+C 309.624505 225.340927 307.211815 231.746499 304.04436 237.785338 
+z
+" style="fill: #2ca02c; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 381.594718 197.900345 
+C 381.507614 187.426973 380.332493 176.990942 378.088305 166.760463 
+C 375.844118 156.529984 372.542986 146.560321 368.238108 137.012174 
+L 306.210934 164.977712 
+C 308.578616 170.229193 310.394239 175.712508 311.628542 181.339271 
+C 312.862845 186.966034 313.509162 192.705851 313.557069 198.466206 
+z
+" style="fill: #98df8a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 368.238108 137.012174 
+C 364.530516 128.788782 360.094439 120.913654 354.982986 113.481058 
+C 349.871533 106.048462 344.105161 99.08817 337.752932 92.683517 
+L 289.444087 140.596951 
+C 292.937813 144.11951 296.109317 147.947671 298.920616 152.035598 
+C 301.731916 156.123526 304.171758 160.454847 306.210934 164.977712 
+z
+" style="fill: #d62728; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 337.752932 92.683517 
+C 331.780884 86.66218 325.312839 81.153982 318.417209 76.217177 
+C 311.521579 71.280372 304.222774 66.932434 296.598114 63.219434 
+L 266.808937 124.391705 
+C 271.0025 126.433855 275.016843 128.825221 278.809439 131.540464 
+C 282.602036 134.255707 286.15946 137.285216 289.444087 140.596951 
+z
+" style="fill: #ff9896; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 296.598114 63.219434 
+C 291.135599 60.559342 285.517704 58.230926 279.775003 56.246849 
+C 274.032302 54.262772 268.175223 52.626639 262.235641 51.347363 
+L 247.909577 117.862066 
+C 251.176347 118.565668 254.397741 119.465541 257.556226 120.556783 
+C 260.714711 121.648026 263.804554 122.928654 266.808937 124.391705 
+z
+" style="fill: #9467bd; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 262.235641 51.347363 
+C 257.008318 50.221494 251.724983 49.373714 246.407842 48.807593 
+C 241.0907 48.241472 235.747231 47.957812 230.400036 47.957812 
+L 230.399994 115.997813 
+C 233.340951 115.997813 236.279859 116.153826 239.204287 116.465193 
+C 242.128715 116.776559 245.034549 117.242838 247.909577 117.862066 
+z
+" style="fill: #c5b0d5; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end" x="94.09015" y="106.341811" transform="rotate(-0 94.09015 106.341811)">USA</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="131.265548" y="132.332567" transform="rotate(-0 131.265548 132.332567)">30.6%</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end" x="131.310445" y="335.221244" transform="rotate(-0 131.310445 335.221244)">Brazil</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="158.334853" y="298.790337" transform="rotate(-0 158.334853 298.790337)">18.5%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start" x="270.24383" y="363.118209" transform="rotate(-0 270.24383 363.118209)">Mexico</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="259.377315" y="319.079039" transform="rotate(-0 259.377315 319.079039)">9.5%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start" x="351.305573" y="315.852335" transform="rotate(-0 351.305573 315.852335)">UK</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="318.331311" y="284.703858" transform="rotate(-0 318.331311 284.703858)">8.7%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start" x="392.056114" y="240.751677" transform="rotate(-0 392.056114 240.751677)">India</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="347.968067" y="230.085198" transform="rotate(-0 347.968067 230.085198)">7.8%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start" x="392.857141" y="166.004166" transform="rotate(-0 392.857141 166.004166)">Italy</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="348.550632" y="175.723371" transform="rotate(-0 348.550632 175.723371)">6.6%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start" x="367.44124" y="107.396751" transform="rotate(-0 367.44124 107.396751)">France</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="330.066341" y="133.099797" transform="rotate(-0 330.066341 133.099797)">5.7%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start" x="327.218811" y="66.406457" transform="rotate(-0 327.218811 66.406457)">Spain</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="300.813665" y="103.288674" transform="rotate(-0 300.813665 103.288674)">5.4%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start" x="284.712432" y="44.439163" transform="rotate(-0 284.712432 44.439163)">Peru</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="269.899935" y="87.31246" transform="rotate(-0 269.899935 87.31246)">3.8%</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start" x="248.008552" y="36.256005" transform="rotate(-0 248.008552 36.256005)">Iran</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="243.206204" y="81.361072" transform="rotate(-0 243.206204 81.361072)">3.4%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle" x="230.4" y="17.837812" transform="rotate(-0 230.4 17.837812)">Top 10 Countries by Total Deaths</text>
+   </g>
+  </g>
+ </g>
+</svg>
